@@ -10,6 +10,9 @@
       "clickinterval" : "100",  
       "showads" : "Show",  
     
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+    
       "showAppOpen": "Gone",
       "showSplashInterstitial": "Show",
       "ShowFirstUrlDirect": "https://play240.atmequiz.com",
@@ -18,9 +21,6 @@
     
       "email" : "reach@flawsometechnology.com",
       "Privacy" : "https://sites.google.com/view/orbutvpn/policy",  
-    
-      "TransferBox_OnOff" : "on",  
-      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
      
       "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
       
