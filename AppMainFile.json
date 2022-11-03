@@ -2,13 +2,15 @@
   "data" :  {
       "Vpn_On_Off" : "off",  
     
-      "AD_Priority_Google/URL" : "Show",
+      "AD_Priority_Google/URL" : "Gone",
+      "showads" : "Show",  
+
+    
       "showFirstStart": "Show",
     
       "AppVersion_Update" : "1.0",  
     
       "clickinterval" : "100",  
-      "showads" : "Show",  
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
