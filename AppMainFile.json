@@ -2,7 +2,7 @@
   "data" :  {
       "applink":"https://play.google.com/store/apps/details?id=ffftools.skin.rare.emotes.rewards",
     
-      "Vpn_On_Off" : "off",  
+      "Vpn_On_Off" : "on",  
     
       "AD_Priority_Google/URL" : "Show",
       "showads" : "Show",  
